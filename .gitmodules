@@ -1,6 +1,6 @@
-[submodule "back"]
-	path = back
-	url = https://github.com/LucasLuiz01/Bandeco-Front.git
 [submodule "front"]
 	path = front
 	url = https://github.com/LucasLuiz01/Bandeco-Front.git
+[submodule "Bandeco-Back"]
+	path = Bandeco-Back
+	url = https://github.com/LucasLuiz01/Bandeco-Back.git
